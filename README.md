@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Alexsander. :) 
 
-
-- 🌱 Estudando Desenvolvimento de Sistemas na Proz Educação
+- 🚀 Cursando Analise e Desenvolvimento de Sistemas
+- 🌱 Estudando Técnico em Desenvolvimento de Sistemas
 - 💬 Contate-me no email: alexsander.assis@outlook.com
 - 😄 Pronomes: Ele/Dele
 
