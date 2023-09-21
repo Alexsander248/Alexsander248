@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=180&fontAlignY=40&text=Olá+Seja+Bem-Vindo!!&fontColor=7BB2D9&fontSize=40"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=180&fontAlignY=40&text=Olá+Seja+Bem-Vindo(a)!!&fontColor=7BB2D9&fontSize=40"/>
 
 
  </div>
