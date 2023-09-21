@@ -8,9 +8,9 @@
 - 💬 Contate-me no email: alexsander.assis@outlook.com
 - 😄 Pronomes: Ele/Dele
 
+  
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexsander248&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander248&layout=compact)](https://github.com/Alexsander248/github-readme-stats)
-
-
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander248&layout=compact&hide_border=true&title_color=7bb2d9&text_color=3786be&bg_color=0d1117&custom_title=Linguagens+mais+utilizadas" />
 <img width=100% src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=2"/>
