@@ -3,11 +3,18 @@
 
  </div>
 
-- 🚀 Cursando Analise e Desenvolvimento de Sistemas
+<div align="center">
+
+Sou um apaixonado por tecnologia e inovação, atualmente cursando Análise e Desenvolvimento de Sistemas e atuando como estagiário na maior empresa de tecnologia do país. Tenho formação técnica em Desenvolvimento de Sistemas e uma forte motivação para aprender e aplicar novas tecnologias. Meu objetivo é contribuir para projetos desafiadores e continuar crescendo como Desenvolvedor e Analista de Qualidade (QA).
+
+
+- 🚀 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Técnico em Desenvolvimento de Sistemas 
-- 💬 Contate-me no email: alexsander.assis@outlook.com
+- 💻 Estagiando na TOTVS! a maior empresa de tecnologia do país como Desenvolvedor e Analista de Qualidade.
+- 💬 Contate-me no email: [alexsander.assis@outlook.com](mailto:alexsander.assis@outlook.com)
 - 😄 Pronomes: Ele/Dele
 
+</div>
   
 
 
