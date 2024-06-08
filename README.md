@@ -3,9 +3,9 @@
 
  </div>
 
-<div align="center">
+<div >
 
-Sou um apaixonado por tecnologia e inovação, atualmente cursando Análise e Desenvolvimento de Sistemas e atuando como estagiário na maior empresa de tecnologia do país. Tenho formação técnica em Desenvolvimento de Sistemas e uma forte motivação para aprender e aplicar novas tecnologias. Meu objetivo é contribuir para projetos desafiadores e continuar crescendo como Desenvolvedor e Analista de Qualidade (QA).
+Sou apaixonado por tecnologia, cursando Análise e Desenvolvimento de Sistemas e estagiando na maior empresa do país. Busco aprender, aplicar novas tecnologias e crescer como Desenvolvedor e QA.
 
 
 - 🚀 Cursando Análise e Desenvolvimento de Sistemas
