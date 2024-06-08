@@ -8,10 +8,14 @@
 Sou apaixonado por tecnologia, cursando Análise e Desenvolvimento de Sistemas e estagiando na maior empresa do país. Busco aprender, aplicar novas tecnologias e crescer como Desenvolvedor e QA.
 
 
+
+
 - 🚀 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Técnico em Desenvolvimento de Sistemas 
 - 💻 Estagiando na TOTVS! a maior empresa de tecnologia do país como Desenvolvedor e Analista de Qualidade.
 - 💬 Contate-me no email: [alexsander.assis@outlook.com](mailto:alexsander.assis@outlook.com)
+- - 💼 LinkedIn: [Alexsander Alcantara](https://www.linkedin.com/in/alexsander-alcantara/)
+
 - 😄 Pronomes: Ele/Dele
 
 </div>
