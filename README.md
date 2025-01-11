@@ -5,7 +5,9 @@
 
 <div >
 
-Sou apaixonado por tecnologia, cursando Análise e Desenvolvimento de Sistemas e estagiando na maior empresa do país. Busco aprender, aplicar novas tecnologias e crescer como Desenvolvedor e QA.
+Sou apaixonado por tecnologia, formado em Técnico em Desenvolvimento de Sistemas e atualmente cursando Análise e Desenvolvimento de Sistemas. Atuei como estagiário na maior empresa de tecnologia do país por 1 ano e 4 meses, onde conquistei minha efetivação como QA.
+
+Atualmente, busco me profissionalizar ainda mais na área, estudando ferramentas de automação como Selenium, Cypress, TestFlow, além de outras abordagens de testes, como Gherkin.
 
 
 
