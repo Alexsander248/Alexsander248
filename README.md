@@ -4,7 +4,7 @@
 
 ## 👋 Olá, eu sou Alexsander!
 
-Sou **Quality Assurance Analyst na TOTVS**, com foco em **automação de testes, testes funcionais, APIs e qualidade de software**.
+Atualmente sou **Quality Assurance Analyst na TOTVS**, com foco em **automação de testes, testes funcionais, APIs e qualidade de software**.
 
 * 🧪 Cypress | Selenium | TestFlow | Postman/Newman
 * 💻 C#/.NET | JavaScript | TypeScript | SQL
@@ -21,9 +21,9 @@ Sou **Quality Assurance Analyst na TOTVS**, com foco em **automação de testes,
 
 🔗 [RideControl](https://ride-control.vercel.app)
 
-### 📫 Contato
+### 📫 Contatos
 
-📧 [alexsander.assis@outlook.com](mailto:alexsander.assis@outlook.com)
+📧 [alexsander.assis@outlook.com](mailto:alexsander.assis@outlook.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/alexsander-alcantara/)
 
 </div>
