@@ -9,7 +9,7 @@ Atualmente sou **Quality Assurance Analyst na TOTVS**, com foco em **automação
 * 🧪 Cypress | Selenium | TestFlow | Postman/Newman
 * 💻 C#/.NET | JavaScript | TypeScript | SQL
 * 🚀 React | Vite | Supabase | PWA | Capacitor
-* 🎮 Experiência com testes de jogos
+* 🥼 Experiência com testes de jogos e software
 * 🎓 Bacharelado em Análise e Desenvolvimento de Sistemas
 * 💻 Técnico em Desenvolvimento de Sistemas
 
